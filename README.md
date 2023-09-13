@@ -1,6 +1,8 @@
 # pandas-challenge
 Assignment 4 for Bootcamp: Pandas Challenge
+
 PyCitySchools_starter.ipynb file is the provided starting script provided
+
 PyCitySchools.ipynb file has the solution written by me
 
 
