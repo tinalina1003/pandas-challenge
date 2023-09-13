@@ -3,7 +3,7 @@ Assignment 4 for Bootcamp: Pandas Challenge
 
 PyCitySchools_starter.ipynb file is the provided starting script provided
 
-PyCitySchools.ipynb file has the solution written by me
+PyCitySchools.ipynb file has the solution written by me. This includes a written summary of the analysis and conclusions and comparisons drawn from the results
 
 
 Instructions:
